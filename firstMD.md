@@ -1,9 +1,11 @@
 ---
-layout: post
+layout: "page"
 title: "welcome to test page"
 date:  2020-01-26 00:00:01
 categories: jekyll update
 ---
+
+
 # My First Markdown File
 
 ## sub heading
